@@ -1024,3 +1024,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [01:25:04] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos class_2338{x=-187, y=70, z=389}
+[01:30:02] [Server thread/INFO]: Criss_17 has made the advancement [Hot Stuff]
+[01:32:56] [Server thread/INFO]: Criss_17 was shot by Skeleton
+[01:33:02] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -202.500000, 25.500000, 263.500000]
+[01:33:08] [Server thread/INFO]: Criss_17 was shot by Skeleton
+[01:33:35] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -202.500000, 25.500000, 263.500000]
+[01:33:48] [Server thread/INFO]: Criss_17 was slain by Spider
+[01:33:56] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -188.500000, 20.500000, 261.500000]
+[01:34:05] [Server thread/INFO]: Criss_17 was slain by Spider
+[01:34:20] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -187.500000, 18.500000, 261.500000]
+[01:34:28] [Server thread/INFO]: Criss_17 was slain by Spider
+[01:34:45] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -186.500000, 18.500000, 261.500000]
+[01:34:50] [Server thread/INFO]: Criss_17 was shot by Skeleton
+[01:34:56] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -187.500000, 18.500000, 262.500000]

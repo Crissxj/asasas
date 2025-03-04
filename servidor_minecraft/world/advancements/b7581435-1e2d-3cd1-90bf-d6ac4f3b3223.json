@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-04 00:00:25 +0000",
+      "minecraft:birch_forest": "2025-03-04 01:25:10 +0000",
       "minecraft:beach": "2025-03-04 01:00:13 +0000",
       "minecraft:cold_ocean": "2025-03-04 01:02:46 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-04 01:02:02 +0000"
@@ -26,6 +27,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-03-04 01:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-04 01:17:45 +0000"
@@ -35,6 +42,18 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-04 01:00:04 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-03-04 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-04 01:25:37 +0000"
     },
     "done": true
   },
@@ -77,6 +96,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-04 01:25:11 +0000"
     },
     "done": true
   },
@@ -410,6 +435,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 01:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 01:15:25 +0000"
@@ -443,6 +474,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 01:09:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-03-04 01:25:37 +0000"
     },
     "done": true
   },
@@ -569,7 +606,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-04 01:14:16 +0000",
+      "minecraft:skeleton": "2025-03-04 01:26:19 +0000",
       "minecraft:vindicator": "2025-03-04 01:14:05 +0000",
+      "minecraft:creeper": "2025-03-04 01:28:35 +0000",
       "minecraft:zombie": "2025-03-04 01:08:06 +0000"
     },
     "done": false
@@ -616,6 +655,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-03-04 01:23:14 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
     "criteria": {
       "has_the_recipe": "2025-03-04 00:58:44 +0000"
@@ -631,6 +676,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-03-04 01:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-04 01:26:20 +0000"
     },
     "done": true
   },
@@ -739,6 +790,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-04 01:02:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-03-04 01:25:37 +0000"
     },
     "done": true
   },
@@ -988,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-04 01:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-04 01:08:44 +0000"
@@ -1156,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-04 01:25:11 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_ingots": {
     "criteria": {
       "has_ingredients": "2025-03-04 00:58:44 +0000"
@@ -1270,9 +1339,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-04 01:26:20 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-03-04 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-03-04 01:26:20 +0000"
     },
     "done": true
   },
@@ -1330,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-04 01:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-03-04 00:59:59 +0000"
@@ -1339,6 +1426,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-04 00:59:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:25:11 +0000"
     },
     "done": true
   },
@@ -1576,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 01:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-03-04 01:04:09 +0000"
@@ -1612,6 +1711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 01:29:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 01:09:51 +0000"
@@ -1645,6 +1750,12 @@
   "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-03-04 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-03-04 01:25:37 +0000"
     },
     "done": true
   },
@@ -1729,6 +1840,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 01:15:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-04 01:25:37 +0000"
     },
     "done": true
   },
