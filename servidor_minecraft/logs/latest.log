@@ -457,3 +457,13 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [04:07:14] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [04:10:01] [Server thread/INFO]: Criss_17 has made the advancement [Oh Shiny]
 [04:11:16] [Server thread/INFO]: Criss_17 has made the advancement [Who is Cutting Onions?]
+[04:12:05] [Server thread/INFO]: Criss_17 was slain by Enderman
+[04:12:47] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -312.500000, 54.500000, 87.500000]
+[04:13:22] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[04:13:44] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[04:17:43] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[04:18:04] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[04:20:12] [Server thread/INFO]: Criss_17 was slain by Piglin
+[04:20:32] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -277.500000, 60.500000, -122.500000]
+[04:20:59] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[04:21:22] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
