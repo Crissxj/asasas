@@ -1037,3 +1037,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:34:45] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -186.500000, 18.500000, 261.500000]
 [01:34:50] [Server thread/INFO]: Criss_17 was shot by Skeleton
 [01:34:56] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -187.500000, 18.500000, 262.500000]
+[01:37:38] [Server thread/INFO]: Criss_17 has made the advancement [Suit Up]
+[01:40:24] [Server thread/INFO]: Criss_17 has made the advancement [Diamonds!]
+[01:41:03] [Server thread/INFO]: Criss_17 was slain by Zombie
+[01:41:11] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -248.500000, -15.500000, 246.500000]
