@@ -442,3 +442,11 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [03:38:35] [Worker-Main-1/INFO]: Instantiating Mojang DFU
 [03:38:37] [Server thread/INFO]: Criss_17 has made the advancement [We Need to Go Deeper]
 [03:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4948ms or 98 ticks behind
+[03:43:48] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[03:43:49] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[03:44:18] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[03:44:26] [Server thread/INFO]: Criss_17 has made the advancement [A Terrible Fortress]
+[03:44:29] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[03:44:31] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[03:44:33] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[03:48:31] [Server thread/INFO]: Criss_17 has made the advancement [Into Fire]

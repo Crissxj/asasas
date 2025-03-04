@@ -884,6 +884,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-04 01:14:16 +0000",
+      "minecraft:blaze": "2025-03-04 03:46:27 +0000",
       "minecraft:skeleton": "2025-03-04 01:26:19 +0000",
       "minecraft:vindicator": "2025-03-04 01:14:05 +0000",
       "minecraft:spider": "2025-03-04 01:35:05 +0000",
@@ -3065,6 +3066,37 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-04 03:38:40 +0000",
+      "minecraft:warped_forest": "2025-03-04 03:45:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-04 03:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-04 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-04 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-04 03:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-03-04 03:33:37 +0000"
@@ -3074,6 +3106,102 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-03-04 03:33:05 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-03-04 03:44:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-04 03:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-04 03:44:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-04 03:38:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-03-04 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-04 03:44:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-04 03:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-04 03:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-04 03:38:55 +0000"
     },
     "done": true
   },
