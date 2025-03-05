@@ -4100,5 +4100,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-03-05 03:42:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

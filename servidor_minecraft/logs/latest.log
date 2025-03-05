@@ -460,3 +460,8 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [03:32:18] [Server thread/INFO]: Criss_17 has made the advancement [Remote Getaway]
 [03:38:27] [Server thread/INFO]: Criss_17 has completed the challenge [Barren Tourist Destinations]
 [03:42:14] [Server thread/INFO]: Criss_17 has made the advancement [The City at the End of the Game]
+[03:48:40] [Server thread/INFO]: [Criss_17: Saved the game]
+[03:50:51] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[03:50:55] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[03:55:48] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[03:55:54] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
