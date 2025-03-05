@@ -440,3 +440,5 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [04:35:42] [Server thread/INFO]: Loading config from file...
 [04:35:42] [Server thread/INFO]: Criss_17 joined the game
 [04:35:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[04:53:03] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[04:53:30] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
