@@ -4256,6 +4256,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-03-05 06:45:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ocelot_smithing": {
     "criteria": {
       "has_ocelot": "2025-03-05 06:39:11 +0000"
