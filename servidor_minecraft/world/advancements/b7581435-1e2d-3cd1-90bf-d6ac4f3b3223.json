@@ -4256,15 +4256,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot_smithing": {
+    "criteria": {
+      "has_ocelot": "2025-03-05 06:39:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-03-05 06:45:43 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ocelot_smithing": {
+  "travelersbackpack:recipes/misc/fox": {
     "criteria": {
-      "has_ocelot": "2025-03-05 06:39:11 +0000"
+      "has_sweet_berries": "2025-03-05 07:02:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-05 07:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-05 07:02:51 +0000"
     },
     "done": true
   },
