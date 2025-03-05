@@ -906,6 +906,7 @@
       "minecraft:witch": "2025-03-04 02:37:41 +0000",
       "minecraft:wither_skeleton": "2025-03-04 02:30:15 +0000",
       "minecraft:ender_dragon": "2025-03-04 06:15:27 +0000",
+      "minecraft:shulker": "2025-03-05 03:42:09 +0000",
       "minecraft:cave_spider": "2025-03-04 01:39:40 +0000",
       "minecraft:piglin": "2025-03-04 04:11:15 +0000",
       "minecraft:enderman": "2025-03-04 01:47:44 +0000",
@@ -3864,9 +3865,12 @@
   "enderitemod:explore_all_end_biomes": {
     "criteria": {
       "theend": "2025-03-04 06:04:35 +0000",
+      "endhighlands": "2025-03-05 03:38:27 +0000",
+      "endbarrens": "2025-03-05 03:38:00 +0000",
+      "endmidlands": "2025-03-05 03:38:11 +0000",
       "smallendislands": "2025-03-05 03:32:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
@@ -4081,6 +4085,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-03-05 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-05 03:42:14 +0000"
     },
     "done": true
   },
