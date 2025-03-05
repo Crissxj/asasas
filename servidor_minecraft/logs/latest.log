@@ -445,3 +445,5 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [04:09:33] [Server thread/INFO]: Criss_17 has reached the goal [Sky's the Limit]
 [04:10:53] [Server thread/INFO]: [Criss_17: Applied enchantment Unbreaking III to Criss_17's item]
 [04:11:00] [Server thread/INFO]: [Criss_17: Applied enchantment Mending to Criss_17's item]
+[04:21:24] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[04:21:26] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
