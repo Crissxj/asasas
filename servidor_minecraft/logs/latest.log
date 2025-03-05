@@ -1014,3 +1014,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[05:59:48] [Server thread/INFO]: [Criss_17: Stopping the server]
+[05:59:48] [Server thread/INFO]: Stopping server
+[05:59:48] [Server thread/INFO]: Saving players
+[05:59:48] [Server thread/INFO]: Criss_17 lost connection: Server closed
+[05:59:48] [Server thread/INFO]: Criss_17 left the game
+[05:59:48] [Server thread/INFO]: Saving worlds
+[05:59:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:59:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:59:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:59:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:59:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:59:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:59:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
