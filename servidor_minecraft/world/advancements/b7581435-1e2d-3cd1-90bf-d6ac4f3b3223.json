@@ -3863,7 +3863,8 @@
   },
   "enderitemod:explore_all_end_biomes": {
     "criteria": {
-      "theend": "2025-03-04 06:04:35 +0000"
+      "theend": "2025-03-04 06:04:35 +0000",
+      "smallendislands": "2025-03-05 03:32:19 +0000"
     },
     "done": false
   },
@@ -4080,6 +4081,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-03-05 02:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-03-05 03:32:18 +0000"
     },
     "done": true
   },
