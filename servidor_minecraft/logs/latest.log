@@ -438,3 +438,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [00:51:29] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
 [01:01:23] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [01:04:31] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to 575.500000, 64.500000, -2519.500000]
+[01:09:45] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[01:10:26] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[01:25:20] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[01:25:27] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
