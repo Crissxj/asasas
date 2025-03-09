@@ -436,3 +436,17 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [03:48:35] [Server thread/INFO]: Loading config from file...
 [03:48:36] [Server thread/INFO]: Criss_17 joined the game
 [03:48:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
+[04:33:53] [Server thread/INFO]: [Criss_17: Gave 1 [Anvil] to Criss_17]
+[04:35:38] [Server thread/INFO]: [Criss_17: Stopping the server]
+[04:35:38] [Server thread/INFO]: Stopping server
+[04:35:38] [Server thread/INFO]: Saving players
+[04:35:38] [Server thread/INFO]: Criss_17 lost connection: Server closed
+[04:35:38] [Server thread/INFO]: Criss_17 left the game
+[04:35:38] [Server thread/INFO]: Saving worlds
+[04:35:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:35:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:35:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:35:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:35:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:35:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:35:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
